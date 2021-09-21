@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/aleksandraskrzypek/static/css/main.51f3348c.chunk.css",
-    "main.js": "/aleksandraskrzypek/static/js/main.d3da9f04.chunk.js",
-    "main.js.map": "/aleksandraskrzypek/static/js/main.d3da9f04.chunk.js.map",
+    "main.css": "/aleksandraskrzypek/static/css/main.87019028.chunk.css",
+    "main.js": "/aleksandraskrzypek/static/js/main.8a255fcb.chunk.js",
+    "main.js.map": "/aleksandraskrzypek/static/js/main.8a255fcb.chunk.js.map",
     "runtime-main.js": "/aleksandraskrzypek/static/js/runtime-main.4880f96c.js",
     "runtime-main.js.map": "/aleksandraskrzypek/static/js/runtime-main.4880f96c.js.map",
     "static/js/2.9cc9fc05.chunk.js": "/aleksandraskrzypek/static/js/2.9cc9fc05.chunk.js",
@@ -10,19 +10,21 @@
     "static/js/3.44a52e1b.chunk.js": "/aleksandraskrzypek/static/js/3.44a52e1b.chunk.js",
     "static/js/3.44a52e1b.chunk.js.map": "/aleksandraskrzypek/static/js/3.44a52e1b.chunk.js.map",
     "index.html": "/aleksandraskrzypek/index.html",
-    "static/css/main.51f3348c.chunk.css.map": "/aleksandraskrzypek/static/css/main.51f3348c.chunk.css.map",
+    "static/css/main.87019028.chunk.css.map": "/aleksandraskrzypek/static/css/main.87019028.chunk.css.map",
     "static/js/2.9cc9fc05.chunk.js.LICENSE.txt": "/aleksandraskrzypek/static/js/2.9cc9fc05.chunk.js.LICENSE.txt",
+    "static/media/clicked.b0d7e079.jpg": "/aleksandraskrzypek/static/media/clicked.b0d7e079.jpg",
     "static/media/googleclone.7dd80bd4.jpg": "/aleksandraskrzypek/static/media/googleclone.7dd80bd4.jpg",
     "static/media/netflixclone.6fe295ea.jpg": "/aleksandraskrzypek/static/media/netflixclone.6fe295ea.jpg",
     "static/media/norwegia.892710a9.jpg": "/aleksandraskrzypek/static/media/norwegia.892710a9.jpg",
     "static/media/quizapp.1df8c61b.jpg": "/aleksandraskrzypek/static/media/quizapp.1df8c61b.jpg",
+    "static/media/shop.1a189fd8.jpg": "/aleksandraskrzypek/static/media/shop.1a189fd8.jpg",
     "static/media/todoapp.3673a2b3.jpg": "/aleksandraskrzypek/static/media/todoapp.3673a2b3.jpg",
     "static/media/weatherapp.5ec545a3.jpg": "/aleksandraskrzypek/static/media/weatherapp.5ec545a3.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4880f96c.js",
     "static/js/2.9cc9fc05.chunk.js",
-    "static/css/main.51f3348c.chunk.css",
-    "static/js/main.d3da9f04.chunk.js"
+    "static/css/main.87019028.chunk.css",
+    "static/js/main.8a255fcb.chunk.js"
   ]
 }
