@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43dd796e.chunk.css",
+    "main.js": "/static/js/main.da4e2b4f.chunk.js",
+    "main.js.map": "/static/js/main.da4e2b4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.30b68c17.js",
+    "runtime-main.js.map": "/static/js/runtime-main.30b68c17.js.map",
+    "static/js/2.9cc9fc05.chunk.js": "/static/js/2.9cc9fc05.chunk.js",
+    "static/js/2.9cc9fc05.chunk.js.map": "/static/js/2.9cc9fc05.chunk.js.map",
+    "static/js/3.44a52e1b.chunk.js": "/static/js/3.44a52e1b.chunk.js",
+    "static/js/3.44a52e1b.chunk.js.map": "/static/js/3.44a52e1b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.43dd796e.chunk.css.map": "/static/css/main.43dd796e.chunk.css.map",
+    "static/js/2.9cc9fc05.chunk.js.LICENSE.txt": "/static/js/2.9cc9fc05.chunk.js.LICENSE.txt",
+    "static/media/googleclone.7dd80bd4.jpg": "/static/media/googleclone.7dd80bd4.jpg",
+    "static/media/netflixclone.6fe295ea.jpg": "/static/media/netflixclone.6fe295ea.jpg",
+    "static/media/norwegia.892710a9.jpg": "/static/media/norwegia.892710a9.jpg",
+    "static/media/quizapp.1df8c61b.jpg": "/static/media/quizapp.1df8c61b.jpg",
+    "static/media/todoapp.3673a2b3.jpg": "/static/media/todoapp.3673a2b3.jpg",
+    "static/media/weatherapp.5ec545a3.jpg": "/static/media/weatherapp.5ec545a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30b68c17.js",
+    "static/js/2.9cc9fc05.chunk.js",
+    "static/css/main.43dd796e.chunk.css",
+    "static/js/main.da4e2b4f.chunk.js"
+  ]
+}
