@@ -24,7 +24,7 @@ function Portfolio() {
                 <div className="portfolio-project">
                     <div className="project-image">
                         <img src={spotify} alt=""></img>
-                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/shop-app"><GitHubIcon className="icon-portfolio"/></a></div></div>
+                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/spotify-clone"><GitHubIcon className="icon-portfolio"/></a></div></div>
                     </div>
                     <div className="project-text">
                         <h1>Spotify clone</h1>
@@ -34,7 +34,7 @@ function Portfolio() {
                 <div className="portfolio-project">
                     <div className="project-image">
                         <img src={weather2} alt="p"></img>
-                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/shop-app"><GitHubIcon className="icon-portfolio"/></a></div></div>
+                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/weather-app-2.0"><GitHubIcon className="icon-portfolio"/></a></div></div>
                     </div>
                     <div className="project-text">
                         <h1>Weather App 2.0</h1>
@@ -44,7 +44,7 @@ function Portfolio() {
                 <div className="portfolio-project">
                     <div className="project-image">
                         <img src={hboclone} alt=""></img>
-                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/shop-app"><GitHubIcon className="icon-portfolio"/></a></div></div>
+                        <div className="portfolio-middle"><div className="text"><p>ZOBACZ TU:</p><br /><a href="https://github.com/aleksandraskrzypek/hbo-clone"><GitHubIcon className="icon-portfolio"/></a></div></div>
                     </div>
                     <div className="project-text">
                         <h1>HBO clone</h1>
