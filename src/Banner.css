@@ -1,0 +1,75 @@
+.banner{
+    height: 100vh;
+    position: relative;
+
+    background: rgb(17, 20, 32);
+}
+
+.banner-center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.banner-center-border{
+    padding-bottom: 15px;
+    border-bottom: 1px solid rgba(155, 164, 193, 0.212);
+}
+
+.banner-center-name{
+    display: flex;
+    justify-content: center;
+}
+
+.banner-center-name>p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 4.5em;
+    padding-left: .5em;
+
+    color:rgb(212, 216, 229);
+
+    transition: transform 450ms;
+}
+
+.banner-center-name>p:hover{
+    color:white;
+    cursor:pointer;
+    transition: transform 450ms;
+    transform: scale(1.08);
+}
+
+.banner-center-long{
+    font-family: 'Amatic SC', cursive;
+    font-size: 2em;
+    color:rgb(155,164,193);
+}
+
+.banner-center-long>p{
+    text-align: center;
+    padding-top: 15px;
+}
+
+.banner-center-arrow>a{
+    padding-top: 15px;
+    color:rgb(155,164,193);
+}
+
+.banner-center-arrow>a{
+    text-align: center;
+}
+
+.icon:hover{
+    transition: transform 450ms;
+    cursor: pointer;
+    color: white;
+    transform: scale(2);
+}
+
+
+
+
+
+
+
+

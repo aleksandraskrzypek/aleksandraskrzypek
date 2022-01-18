@@ -1,0 +1,42 @@
+.contact{
+    background: rgb(32,35,46);
+    background: radial-gradient(circle, rgba(32,35,46,1) 0%, rgba(20,22,30,1) 100%);
+
+    display: flex;
+    justify-content: center;
+
+    padding-top: 10px;
+    padding-bottom: 35px;
+}
+
+.contact-content-mail{
+    width: 40vw;
+}
+
+.contact-content-mail>p{
+    font-family: 'Poiret One', cursive;
+    color:white;
+    font-size: 2em;
+}
+
+.contact-content-mail>p>h1{
+    font-size: 1em;
+}
+
+.contact-content-rest{
+    width: 40vw;
+    padding-left: 30px;
+    border-left: 1px solid rgba(155, 164, 193, 0.212);
+}
+
+.contact-content-rest>p{
+    font-family: 'Poiret One', cursive;
+    color:white;
+    font-size: 2em;
+}
+
+.icon-contact{
+    color:white;
+    padding-left:10px;
+    padding-top: 10px;
+}

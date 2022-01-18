@@ -1,0 +1,46 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+    z-index:1;
+    
+    display: flex;
+    justify-content: space-between;
+
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+
+}
+
+.nav-black{
+    background: rgba(32, 35, 46, 0.644);
+
+    box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+}
+
+.nav>ul{
+    list-style-type: none;
+    width: 100%;
+}
+
+.nav>ul>li>a{
+    float: right;
+    text-decoration: none;
+
+    padding-right: 1em;
+    padding-top: 0.1em;
+
+    font-family: 'Amatic SC', cursive;
+    font-size: 2.5em;
+
+    color:rgb(212, 216, 229);
+
+    transition: transform 450ms;
+    cursor: pointer;
+}
+
+.nav>ul>li>a:hover{
+    transition: transform 450ms;
+    transform: scale(1.08);
+}
